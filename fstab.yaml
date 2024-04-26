@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:4502/bin/franklin.delivery/eli/aem-eds-test/main"
+    url: "https://author-p7752-e729659.adobeaemcloud.com//bin/franklin.delivery/something/aem-adge-getting-started/main"
     type: "markup"
     suffix: ".html"
